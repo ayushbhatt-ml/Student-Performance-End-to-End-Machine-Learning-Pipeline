@@ -1,4 +1,17 @@
-artifacts
+# ML Artifacts and Datasets
+artifacts/
+
+# Logs and Training Outputs
+catboost_info/
+logs/
+
+# Python Build / Packaging directories
+*.egg-info/
+myenv/
+venv/
+.vscode/
+__pycache__/
+*.pkl
 
 
 
