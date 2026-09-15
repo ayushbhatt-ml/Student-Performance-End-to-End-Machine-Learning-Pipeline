@@ -1,3 +1,8 @@
+artifacts
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -103,12 +108,14 @@ celerybeat.pid
 
 # Environments
 .env
+myenv/
 .venv
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
+.artifacts
 
 # Spyder project settings
 .spyderproject
