@@ -9,4 +9,4 @@ Flask
 setuptools
 dill
 
-#-e .
+-e .
