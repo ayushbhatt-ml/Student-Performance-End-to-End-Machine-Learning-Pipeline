@@ -9,4 +9,4 @@ Flask
 setuptools
 dill
 
--e .
+-e .  # add this at the end of the project to install the package in editable mode
